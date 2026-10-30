@@ -1,0 +1,8 @@
+{
+  "name": "Remix AURA OS TV - Elite VIP STB Launcher",
+  "description": "An exclusive cinematic Android TV \u0026 STB Smart Home Launcher featuring glassmorphism UI, real-time hardware metrics, D-Pad remote navigation, live CCTV overlay, and VIP utility engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
